@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+scripts/
+output/
+.env
+
+# db
+vendor_core.db
